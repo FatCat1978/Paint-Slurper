@@ -1,0 +1,4 @@
+repository "Paint Slurper@SquiddyStudios@cloud"
+  path "/"
+    smartbranch "/main" 
+     

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 91580ea49dfba5d45bf14588e23cd0bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lightToggleSound: {fileID: 8300000, guid: da5977a3e08eb5f4899570999cc93bc2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
